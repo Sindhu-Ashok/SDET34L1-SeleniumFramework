@@ -23,7 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class contains all the common actions
  * @author sin42
- *Ttatatatata
+ *Heyyy-heyyyyy-heyyyy
  */
 public class BaseClass {
 
